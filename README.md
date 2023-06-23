@@ -1,0 +1,2 @@
+# arqcomp
+Emulador processador
